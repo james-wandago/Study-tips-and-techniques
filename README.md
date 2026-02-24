@@ -1,1 +1,23 @@
-# Study-tips-and-techniques
+# Study Tips and Techiques
+
+Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Bibo
+
+## Table of contents
+- [Introduction](#introductio)
+- [Short Breaks Technique](Short-Breaks-Technique)
+- [Active Recal](Active-Recal)
+- [Mind Mapping](Mind-Mapping)
+- [Google Search](Google-Search)
+- [Class discussion](Class-Discussion)
+
+  ## Introductio
+  This guide explains effective study techniques that helps studentd improve focus,understanding and memory retentio. Each sectionis written by a differnt team member.
+
+  ## Pomodoro Technique
+  <!-- Bonny will write this section -->
+  ## Active Recall
+  <!-- Isaiah will write this section -->
+  ## Mind mapping
+  <!-- Joeboy will write this section -->
+  <!-- Bibo will write this section -->
+  <!-- James will writr this section -->
