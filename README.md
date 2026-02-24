@@ -10,7 +10,7 @@ Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Bibo
 - [Google Search](Google-Search)
 - [Class discussion](Class-Discussion)
 
-  ## Introductio
+  ## Introduction
   This guide explains effective study techniques that helps studentd improve focus,understanding and memory retentio. Each sectionis written by a differnt team member.
 
   ## Short Breaks Technique
