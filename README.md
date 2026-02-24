@@ -13,11 +13,13 @@ Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Bibo
   ## Introductio
   This guide explains effective study techniques that helps studentd improve focus,understanding and memory retentio. Each sectionis written by a differnt team member.
 
-  ## Pomodoro Technique
+  ## Short Breaks Technique
   <!-- Bonny will write this section -->
   ## Active Recall
   <!-- Isaiah will write this section -->
   ## Mind mapping
   <!-- Joeboy will write this section -->
+  ## Google Search
   <!-- Bibo will write this section -->
+  ## Class Discussion
   <!-- James will writr this section -->
