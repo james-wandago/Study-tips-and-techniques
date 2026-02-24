@@ -22,4 +22,15 @@ Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Bibo
   ## Google Search
   <!-- Bibo will write this section -->
   ## Class Discussion
-  <!-- James will writr this section -->
+  Class discusion is an interactive study method where students actively participate by sharing ideas,asking questions,and debating topics in a group setting. It helps improve understanding because students expalin concepts in their own words and learn from different perspectives
+  ### Why is it effective
+  -encourage critical thinking
+  -improve communication skills
+  -helps students remember informatio better
+  -builds confidence in speaking
+
+  ### How to use it effectively
+  -prepare before class by reading the material
+  listen careful to others' opinion
+  -asks question if something is unclear
+  -take notes during discussion
