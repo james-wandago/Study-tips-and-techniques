@@ -1,17 +1,17 @@
 # Study Tips and Techiques
 
-Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Bibo
+Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Brian
 
 ## Table of contents
-- [Introduction](#introductio)
-- [Short Breaks Technique](Short-Breaks-Technique)
-- [Active Recal](Active-Recal)
-- [Mind Mapping](Mind-Mapping)
-- [Google Search](Google-Search)
-- [Class discussion](Class-Discussion)
+- [Introduction](#Introduction)
+- [Short Breaks Technique](#Short-Breaks-Technique)
+- [Active Recal](#Active-Recal)
+- [Mind Mapping](#Mind-Mapping)
+- [Google Search](#Google-Search)
+- [Class discussion](#Class-Discussion)
 
   ## Introduction
-  This guide explains effective study techniques that helps studentd improve focus,understanding and memory retentio. Each sectionis written by a differnt team member.
+  This guide explains effective study techniques that helps students improve focus,understanding and memory retention. Each section is written by a differnt team member.
 
   ## Short Breaks Technique
   <!-- Bonny will write this section -->
