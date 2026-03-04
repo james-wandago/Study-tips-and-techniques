@@ -1,94 +1,31 @@
-# Study Tips and Techniques
-
-Collaboration guide by James Wandago, Bonny, Isaiah, Joeboy, Brian, Mitchel
-
-## Table of contents
-- [Introduction](#introduction)
-- [Short Breaks Technique](#short-breaks-technique)
-- [Active Recall](#active-recall)
-- [Recap](#recap)
-- [Mind Mapping](#mind-mapping)
-- [Google Search](#google-search)
-- [Class Discussion](#class-discussion)
-
----
-
-## Introduction
-This guide explains effective study techniques that help students improve focus, understanding, and memory retention. Each section is written by a different team member.
-
----
-
-## Short Breaks Technique
-<!-- Bonny will write this section -->
-
----
-
-## Active Recall
-<!-- Isaiah will write this section -->
-
 ---
 
 ## Recap
+**Written by: Mitchel**
 
+> **Key Idea:** The best study results come from combining multiple study techniques rather than relying on just one.
 
-The best study results come from combining multiple study techniques instead of relying on just one. Techniques like **short breaks**, **active recall**, and **mind mapping** work best when used together.
+The most effective learning happens when students combine different study methods. Techniques like **short breaks**, **active recall**, **mind mapping**, **Google search for research**, and **class discussions** complement each other and strengthen understanding.
 
-### Why Recapping Is Important
-- Helps summarize what you have learned
-- Reinforces memory and understanding
-- Helps identify areas that need more practice
-- Improves long-term retention of information
+### Why Recapping is Important
+- Reinforces what you have learned
+- Helps identify knowledge gaps
+- Improves long-term memory retention
+- Connects ideas from different study techniques
 
-### How to Practice Recap
-1. After studying a topic, pause and summarize the main ideas in your own words.
-2. Write down key points without looking at your notes.
-3. Compare your recap with the original material.
-4. Repeat the process regularly to strengthen memory.
+### Best Way to Recap Your Learning
+1. Review the key points from your study session.
+2. Summarize the information in your own words.
+3. Test yourself using **active recall**.
+4. Discuss challenging concepts with classmates.
+5. Use **mind maps** to visualize relationships between ideas.
 
-> A short recap after every study session can significantly improve how much information you retain.
+### Quick Recap Checklist
+- [ ] Review notes
+- [ ] Summarize key ideas
+- [ ] Self-test using active recall
+- [ ] Discuss with classmates
+- [ ] Create a simple mind map
 
----
-
-## Mind Mapping
-<!-- Joeboy will write this section -->
-
----
-
-## Google Search
-
-Google is heavily involved in AI learning tools by providing, developing, and integrating generative AI technology into educational, professional, and developer platforms. Its role spans from providing conversational learning companions to offering advanced cloud-based training for machine learning.
-
-### How Google Is Used as a Tool in AI Learning
-
-1. **Interactive learning and personalized study**
-   - **Gemini (Guided Learning)** provides step-by-step explanations, quizzes, and multimedia responses.
-   - **Gemini Live and Vision** allows voice-based, real-time problem solving and uses camera inputs like Google Lens for analysis.
-   - **NotebookLM** generates summaries, study guides, flashcards, and audio overviews from uploaded materials such as PDFs and documents.
-
-2. **Development and technical training (Vertex AI & AI Studio)**
-   - Platforms for prototyping and testing machine learning models.
-   - Allows developers to experiment with generative AI and build AI agents without advanced technical skills.
-
-3. **Google AI & Cloud learning**
-   - Provides tutorials, training programs, and guides on foundational AI concepts to help users build practical AI skills.
-
-4. **Education AI tools**
-   - Google offers AI-powered tools that help educators plan lessons and improve learning experiences while encouraging responsible AI use.
-
----
-
-## Class Discussion
-
-Class discussion is an interactive study method where students actively participate by sharing ideas, asking questions, and debating topics in a group setting. It helps improve understanding because students explain concepts in their own words and learn from different perspectives.
-
-### Why It Is Effective
-- Encourages critical thinking
-- Improves communication skills
-- Helps students remember information better
-- Builds confidence in speaking
-
-### How to Use It Effectively
-- Prepare before class by reading the material
-- Listen carefully to others’ opinions
-- Ask questions if something is unclear
-- Take notes during the discussion
+### Final Thought
+Studying effectively is not about studying longer — it is about studying **smarter**. Combining multiple study techniques and regularly recapping what you learn can significantly improve academic performance.
