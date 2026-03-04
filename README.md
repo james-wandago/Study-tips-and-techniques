@@ -10,6 +10,7 @@ Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Brian
 - [Mind Mapping](#Mind-Mapping)
 - [Google Search](#Google-Search)
 - [Class discussion](#Class-Discussion)
+- [ Recap](#Recap)
 
   ## Introduction
   This guide explains effective study techniques that helps students improve focus,understanding and memory retention. Each section is written by a differnt team member.
@@ -18,6 +19,8 @@ Collaboration guide by James Wandago,Bonny,Isaiah,Joeboy,Brian
   <!-- Bonny will write this section -->
   ## Active Recall
   <!-- Isaiah will write this section -->
+  ## Recap
+  <!-- Mitchel will write this section -->
   ## Mind mapping
   <!-- Joeboy will write this section -->
   ## Google Search
