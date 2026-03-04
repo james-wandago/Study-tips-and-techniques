@@ -30,7 +30,6 @@ This guide explains effective study techniques that help students improve focus,
 
 ## Recap
 
-**Written by: Mitchel**
 
 The best study results come from combining multiple study techniques instead of relying on just one. Techniques like **short breaks**, **active recall**, and **mind mapping** work best when used together.
 
